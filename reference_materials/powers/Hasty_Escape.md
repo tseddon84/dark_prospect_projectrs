@@ -1,0 +1,3 @@
+# Hasty Escape
+
+Cross your arms or weapons in front of your chest in an X shape. For the duration, so long as you keep your arms crossed and actively attempt to move away from any hostile character as quickly as you are comfortably able you can use the Dodge power any number of times for free. You cannot attack or use Mental or Status powers while maintaining this power.<noinclude>[[Category:Powers]]</noinclude>

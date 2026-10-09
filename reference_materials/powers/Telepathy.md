@@ -1,0 +1,3 @@
+# Telepathy
+
+''Mental, Special''. Use the telepathy hand sign, hand with first 3 fingers closed, thumb and pinky spread. Look into the eyes of your target - the target may refuse Telepathy by simply not returning the gesture for no cost. Speak in a whisper or very soft voice - your target will hear your voice in their mind. Others who see this should ignore your communication.<noinclude>[[Category:Powers]]</noinclude>

@@ -1,0 +1,3 @@
+# Thieving Talons
+
+''Physical''. You may use a power that you know the target has for the next hour for 1 energy plus the target's cost. Touch the target and use the sig call: "Thieving Talons: [power name]". The target should respond with the cost. Convert the resource type to your native type if possible. If you do not have an equivalent resource (mortals borrowing rage powers, etc...), you may not use the power. You may not use this to steal a power you already own, nor may you steal Borrow Power; you may have only one stolen power at a time.<noinclude>[[Category:Powers]]</noinclude>

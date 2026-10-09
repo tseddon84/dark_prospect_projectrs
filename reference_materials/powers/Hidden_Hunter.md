@@ -1,0 +1,3 @@
+# Hidden Hunter
+
+Attempt to actually put yourself somewhere someone might hide (off the edge of a path under a tree, around a corner from a fight, etc.) Make a 6 count of “hiding”, then spend your energy to cloak. As long as you remain in the same location, do not speak except to call bow attacks, or use powers other than Bowplay, you may re-cloak for no cost with no count. This power does not incur the normal limitation of cloak preventing you from re-cloaking when attacking.<noinclude>[[Category:Powers]]</noinclude>

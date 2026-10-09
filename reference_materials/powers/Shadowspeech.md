@@ -1,0 +1,3 @@
+# Shadowspeech
+
+''Mental, Special, Touch''. Touch a target who has a Shadow, use the sig call "Shadowspeech: [question you wish to ask]" - the target player should respond to the question as their character's Shadow. If they do not have a Shadow, they may freely resist with either "Resist" or "No Effect". The target character should not recall being asked or answering the question. Must remain in contact for the duration of both the question and answer.<noinclude>[[Category:Powers]]</noinclude>

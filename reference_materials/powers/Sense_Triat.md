@@ -1,0 +1,3 @@
+# Sense Triat
+
+''Mental, Instant, Sensory''. Spend the required energy, indicate the target and call "Sense Triat: How tainted are you by the Wyld, Weaver and Wyrm?" The target must respond with the levels of each Taint type, responding with "0" for any Taint they don't have. Unlike most Sensory powers, you may not waive the Resource cost of Sense Triat by studying the target for 10 seconds.<noinclude>[[Category:Powers]]</noinclude>

@@ -1,0 +1,3 @@
+# Wither Limb
+
+''Status''. Your target loses the ability to use one of their limbs. If holding weapons in both hands or a weapon and shield they must drop one of them. If holding a 2-handed weapon, you may not use that weapon. If holding only one weapon or shield, drop that piece of equipment. Being struck a second time by this power affects the opposite limb, but the original limb returns to a functional state.<noinclude>[[Category:Powers]]</noinclude>

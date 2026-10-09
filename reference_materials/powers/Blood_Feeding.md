@@ -1,0 +1,3 @@
+# Blood Feeding
+
+To feed from a target, place your hand on their shoulder and start a 3 count of “biting” - once completed, switch to “Draining blood [n]” where N is the total amount of blood drained so far. You may drain 1 blood per count. If the target can not spend energy as blood then they lose 1 Health per count. You gain 1 blood for each health taken this way; see the Vampire section for exceptions. When feeding from a character's health pool, you may not feed from the same target again for 10 minutes. Feeding from a Changeling causes Enchantment. This effect can be resisted with Willpower. The Changeling player must provide an Enchantment card.<noinclude>[[Category:Powers]]</noinclude>

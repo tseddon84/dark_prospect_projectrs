@@ -1,0 +1,3 @@
+# Extend
+
+This power has two uses. The first will Extend the duration of a power designated on the power descriptor line. Prefix your sig call with "Extend:". Powers modified by Extend may only be used with hostile intent. The alternate usage clears the Extend effect from the target. To use this form, use the sig call "Remove Extend" and designate the target. If the power has more than 10 minutes remaining then the remaining time is halved. Removing an Extend does not remove the effect itself.<noinclude>[[Category:Powers]]</noinclude>

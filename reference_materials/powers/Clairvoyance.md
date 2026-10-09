@@ -1,0 +1,3 @@
+# Clairvoyance
+
+''Other, Irresistible''. As Astral Projection, except that you equip an orange headband and may only visit a character who you believe is friendly to you, a target who you can currently see, or the thing defined on the power descriptor line. You may follow the target, listening and seeing what they do for up to 10 minutes at which point you must return to your body. While traveling to or from the target you may not overhear or oversee events. While this power is active you may not use any powers except for Possessing Heal - you are only able to follow, listen, and watch. This power is not usable in combat.<noinclude>[[Category:Powers]]</noinclude>

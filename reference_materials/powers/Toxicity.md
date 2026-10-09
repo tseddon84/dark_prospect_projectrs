@@ -1,0 +1,3 @@
+# Toxicity
+
+Your blood is dangerous to drink. When someone feeds from you, lose a point of blood (or health if you have no blood) as normal, but respond to the feeding with “Resist, 1 irresistible damage” - the individual feeding will not gain any blood and will instead take 1 damage. This effect cannot be resisted. This effect also applies to the Devouring Soul call as well.<noinclude>[[Category:Powers]]</noinclude>

@@ -1,0 +1,3 @@
+# Kith Form
+
+''Form.'' The Changeling pulls their chimerical form into substance. Each kith gains specific bonuses while their kith form is active. While in Kith Form, a Changeling loses their Fragile Magic weakness. However, if a Changeling drops to the dying state while in Kith Form, they immediately gain 1 permanent Banality, and they lose the mechanical benefits of Kith Form for the rest of the day (change out of Kith Form costuming at earliest convenience). A Changeling cannot gain Banality this way more than once per day. Use either a mask or other distinct costuming (such as removable beards or noses), represent your Kith. While in Kith Form gain Gauntlet Sight, No Cost, Always On, and Echo, No Cost, Always On.

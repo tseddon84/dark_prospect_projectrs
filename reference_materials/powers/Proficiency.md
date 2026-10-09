@@ -1,0 +1,3 @@
+# Proficiency
+
+''Buff.'' The beneficiary of this power gains 1 point of Augment while wielding a single melee weapon by itself. This single melee weapon can be a two-hander, but does not need to be, so long as the user’s off-hand is not wielding any other kind of weapon (including Natural weapons) or a Shield. The user can benefit from this effect while holding a non-tagged item, or a tagged item which is neither a weapon or a shield. If a character drops a weapon or shield in their offhand, they must spend a three count adjusting their grip and stance before they can benefit from this effect.<noinclude>[[Category:Powers]]</noinclude>

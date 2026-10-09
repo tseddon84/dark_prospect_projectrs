@@ -1,0 +1,3 @@
+# Chimerical Creation
+
+This power allows you to create a Glamour Fetish for the next game you attend. Write an index card with the Text: “Chimerical Creation, Description: <Prop Description>, Power: <Fetish Power>, Level: <Fetish Level>” and put it into a check-out box. When you receive the Fetish tag during check-in at the next game, reduce your maximum Glamour by 1 for each level of the Fetish, and your Maximum Willpower by 1 for that entire game.

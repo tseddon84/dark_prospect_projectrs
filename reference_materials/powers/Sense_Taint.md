@@ -1,0 +1,3 @@
+# Sense Taint
+
+''Mental, Instant, Sensory''. Sig call: "Sense Taint: [type]", where the type is listed on the Power Descriptor Line. If the target is affected by that type of taint then they must answer with what level. If "any" is listed in the power description, you must choose one type each time you use the power. You may choose to ignore the power's resource cost by spending a silent 10-count obviously observing the target while standing within conversational distance of them. If the target leaves conversational range during this silent 10 count, or you move, use another power or attack someone, the count is interrupted and must be restarted.<noinclude>[[Category:Powers]]</noinclude>

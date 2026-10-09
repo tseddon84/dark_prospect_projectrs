@@ -1,0 +1,3 @@
+# Inhuman Evasion
+
+When struck by a physically delivered effect (that is, any effect delivered via packet, nerf bullet or boffer), spend the listed energy and call “Dodge!” To ignore the effect. Unlike the Dodge power, Inhuman Evasion can be used any number of times before Recovering, but each use causes the cost of the power to increase by 1 energy to a maximum of 5. Upon successfully Recovering, the cost of Inhuman Evasion is reset to its initial cost. Note that unlike with Resist powers, Inhuman Evasion’s cost is not increased when used against Aggravated Damage.<noinclude>[[Category:Powers]]</noinclude>

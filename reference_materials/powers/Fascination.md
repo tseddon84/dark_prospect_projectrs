@@ -1,0 +1,3 @@
+# Fascination
+
+''Mental, Signaled, Disable''. Use the sig call "Fascination: While we converse" or "Fascination: While I entertain". As long as you can maintain your end of a conversation or otherwise provide entertainment the target must keep their attention focused on you and may not attack you. You may not initiate power usage while this power is in use.<noinclude>[[Category:Powers]]</noinclude>

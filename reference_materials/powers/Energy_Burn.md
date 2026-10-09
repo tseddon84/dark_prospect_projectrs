@@ -1,0 +1,3 @@
+# Energy Burn
+
+''Physical''. By default, this power drains 1 energy then deals 1 damage for each energy drained. Touch your target and call "Energy Burn: [number]" where [number] is the amount total amount of damage you wish to do. Putting up to 3 additional energy into it will increase [number] by 1 per energy added. The target loses that much of their energy pool and takes as much damage as energy drained.<noinclude>[[Category:Powers]]</noinclude>

@@ -1,0 +1,3 @@
+# Tagalong
+
+Once per game you may temporarily join any Werewolf pack without requiring the ritual to do so. This effect lasts the remainder of the game, and you receive the full benefits of being a member of that pack. You need not have permission from the pack or totem to do this. If asked what you are doing at a pack or caern activity, simply respond: "Tagalong."<noinclude>[[Category:Powers]]</noinclude>

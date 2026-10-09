@@ -1,0 +1,3 @@
+# Traverse Gauntlet
+
+You may equip or remove a white headband to enter or leave the Umbra. If you are Native Realm: Umbra and enter the Realm, you are treated as being under the effects of Materialize. This ability costs 2 Energy indoors, 1 Energy outdoors, or no energy in a place of power. If you are touching a window, mirror, or node card, you may step across immediately. If not, you must make a silent 10 count.<noinclude>[[Category:Powers]]</noinclude>

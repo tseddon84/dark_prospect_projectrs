@@ -1,0 +1,3 @@
+# Exorcism
+
+''Mental, Instant''. This ability has two uses. One, touch a target you believe is possessed, call “Exorcism: leave this vessel now” - if the target is being possessed then the possessor must leave the body and the target falls unconscious as if affected by Merciful Sleep. The second is usable only indoors. Use the call “Exorcism: All in the Umbra leave this room now” - all beings in the Umbra must do as commanded and leave the room. They may not return for the next 10 minutes as long as they remain in the Umbra.<noinclude>[[Category:Powers]]</noinclude>

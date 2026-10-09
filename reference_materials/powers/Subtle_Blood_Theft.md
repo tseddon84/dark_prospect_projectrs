@@ -1,0 +1,3 @@
+# Subtle Blood Theft
+
+''Mental, Instant''. Drain 1 blood from your target without the count call. Use the call "Subtle Blood Theft 1" to do so. You may only drain 1 blood from any 1 target once every 10 minutes this way. Please note that this power can be used in combination with Blood Sense. The target will not feel pain from this or notice the effect for at least 10 minutes. Because it immediately enters your system it is not considered swallowed - you will not incur a blood bond or be forced to frenzy via this type of drain. If the target does not use the Blood energy type they will instead lose a point of Health.<noinclude>[[Category:Powers]]</noinclude>

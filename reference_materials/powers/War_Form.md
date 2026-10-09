@@ -1,0 +1,3 @@
+# War Form
+
+''Form.'' Equip a mask designated by this power. This power lasts until deactivated unless otherwise specified. Falling unconscious while in this form reverts you to your natural form. Remember that while wearing an animal mask you inflict the Delirium effect on mortals. While in this form, you may use the Resist: Mental power and the Resist: Status power once per Recovery each for no cost and may spend 1 point of Primary Energy to add the Aggravated damage call to a single natural weapon swing.<noinclude>[[Category:Powers]]</noinclude>

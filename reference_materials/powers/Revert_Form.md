@@ -1,0 +1,3 @@
+# Revert Form
+
+''Special, Touch''. Use the Sig Call: "Revert to True Form", touch the target. They are Forced to revert to their natural form. If a homid Shifter, Vampire, Wraith, or Mortal they remove any masks or prosthetics mantles, claws, or tentacles they have equipped. If a Metis or Lupus shifter, any Gaian Spirit, or anything else that naturally reverts to an animal state, they must equip their masks, prosthetics, mantles, claws, and/or tentacles as appropriate. Revert Form removes and cancels Frozen Form.<noinclude>[[Category:Powers]]</noinclude>

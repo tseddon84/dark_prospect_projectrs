@@ -1,0 +1,3 @@
+# Sense Aura
+
+''Mental, Instant, Sensory''. Use the sig call "Sense Aura", you may ask the target their current strongest emotion, if they are supernatural, if they are your Type, if they are under a ritual effect, or if they have any magic items on them. You may choose to ignore the power's resource cost by spending a silent 10-count obviously observing the target while standing within conversational distance of them. If the target leaves conversational range during this silent 10 count, or you move, use another power or attack someone, the count is interrupted and must be restarted.<noinclude>[[Category:Powers]]</noinclude>

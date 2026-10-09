@@ -1,0 +1,3 @@
+# Third Eye
+
+Expose a third eye (drawn or prop) on your forehead. For Valeren, this eye must be red, while Obeah eyes should generally be natural colors. Reduce blood costs for Obeah and Valeren powers by 1 but add a 15 second cooldown. With this third eye exposed the skills granted by Healer heal for twice as much and you may choose to spend 3 Blood instead of a Will for Obeah or Valeren powers.<noinclude>[[Category:Powers]]</noinclude>

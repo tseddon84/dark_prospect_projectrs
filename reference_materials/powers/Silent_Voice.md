@@ -1,0 +1,3 @@
+# Silent Voice
+
+Offer a white 3x5 card to a target of your choosing. The target may read the card in its entirety but need not do so immediately upon receiving the card. The card must start with the text: "Phantom Speaker, you hear a voice:" followed by the full text you wish to convey. As 3x5s are not physical objects in the world of our game, the message cannot be intercepted intentionally or otherwise.<noinclude>[[Category:Powers]]</noinclude>

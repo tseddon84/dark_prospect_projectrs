@@ -1,0 +1,3 @@
+# Bestow Patron
+
+Use the sig call: “Bestow Patron: [name]”. The target character changes their sheet Patron to the current Spirit. This ability can be freely resisted. Players with this ability used on them should turn in a 3x5 card at game-down with the text: “Bestow Patron”, [your name], [your character’s name], [the new Patron], [the player of that Patron].<noinclude>[[Category:Powers]]</noinclude>

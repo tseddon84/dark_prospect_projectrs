@@ -1,0 +1,3 @@
+# Mass Cloak
+
+''Physical''. Place one hand from up to 2 targets on your shoulders, call “Mass Cloak”, then you and the associated targets use the cloak hand sign; place your hand in front of your face, palm inward, fingers spread. If either of those targets take an action or speak then they leave cloak. If you leave cloak, all targets leave cloak. If you wish to bring a target into cloak without leaving cloak, you may bring that target’s hand to your shoulder assuming you are able to. Cost is per target and must be spent each time you place a hand on your shoulder.<noinclude>[[Category:Powers]]</noinclude>

@@ -1,0 +1,3 @@
+# Emotional Regeneration
+
+If you remain within 10 feet of a character who is under the effect of Amplify Emotion and feeling the emotion described, gain 1 Essence every 2 minutes. If you remained within range of an individual whom you used Amplify Emotion on for the full duration of that power then you may choose to grant the target 1 Essence at no cost to yourself. <noinclude>[[Category:Powers]]</noinclude>

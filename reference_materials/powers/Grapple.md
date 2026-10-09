@@ -1,0 +1,3 @@
+# Grapple
+
+''Physical, Disable''. Touch the target's shoulder, spend energy if required, and call out “Grapple,” the target becomes grappled. Neither character in a grapple can use powers that have the Physical tag or do anything to cause damage. A grappled character may break out with a 10 count of "breaking free". If you remove your hand from the grappled character's shoulder this also breaks the grapple.<noinclude>[[Category:Powers]]</noinclude>

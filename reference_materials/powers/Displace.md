@@ -1,0 +1,3 @@
+# Displace
+
+''Mental, Instant''. After using a power or causing damage to a target, point at a second target and use the sig call: "Displace: They did it" - the target of the original power is affected as though the power or damage came from the second target, even if they might not otherwise be able to sense that a power was used. Any resource or answer is returned to the caster.<noinclude>[[Category:Powers]]</noinclude>

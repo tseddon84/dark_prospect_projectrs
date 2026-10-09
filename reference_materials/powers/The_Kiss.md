@@ -1,0 +1,3 @@
+# The Kiss
+
+While feeding from a target, state "Invoking Kiss". The target should feel a sense of euphoria and will forget the 30 seconds before you began feeding and the time it takes you to feed. While under the effects of this power the target cannot act on their own. They cannot move, use powers, skills, or speak to anyone except you - if speaking to you, they must speak in a near-whisper. They will remember a pleasant sensation, but will not necessarily know why.<noinclude>[[Category:Powers]]</noinclude>

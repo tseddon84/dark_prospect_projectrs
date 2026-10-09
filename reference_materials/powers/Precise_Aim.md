@@ -1,0 +1,3 @@
+# Precise Aim
+
+''Buff.'' While holding a ranged weapon, the user may begin an “Aiming” three count. If they move their feet for any reason the count is canceled and must be restarted (though the user may take damage or use other self powers while counting without interrupting the count). If the user finishes the “Aiming” count, they gain 1 level of Enhance with the held ranged weapon. This effect lasts until the user moves their feet, makes an attack with a weapon other than the held ranged weapon, or uses a non-self power that isn’t from the Gunplay or Archery tree.<noinclude>[[Category:Powers]]</noinclude>

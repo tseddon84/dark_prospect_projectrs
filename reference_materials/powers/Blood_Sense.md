@@ -1,0 +1,3 @@
+# Blood Sense
+
+''Other''. By draining one blood from a target you may ask how much blood or health remains in their system, whether the target is under a Blood Bond, if the target is a Vampire, what Generation Vampire, or whether the target has ever committed Diablerie. You may not ask the Generation or Diablerie questions without first knowing the target is a Vampire. You may ask all questions from a single point of blood. If you are draining more than one point of blood you must drain a point between each question up until the last.<noinclude>[[Category:Powers]]</noinclude>

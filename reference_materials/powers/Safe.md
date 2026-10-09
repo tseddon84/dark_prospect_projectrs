@@ -1,0 +1,3 @@
+# Safe
+
+''Disable''. Immediately remove your white headband to appear in the Realm. You may not move your feet, take any aggressive actions, or use any powers. As long as you do not do any of these things you take no damage and cannot be effected by any powers. If you wish to move your feet, take any aggressive action, or use a power, immediately replace your headband to re-enter the Umbra first.<noinclude>[[Category:Powers]]</noinclude>

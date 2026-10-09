@@ -1,0 +1,3 @@
+# Hallucinate
+
+''Mental.'' Indicate a target, spend the required energy and call “Hallucinate: [Single sentence description of a sensory hallucination].” The target must roleplay perceiving the described hallucination for the duration of the power. If the source of the power notes a sense or type of hallucination, you must use that sense or hallucination with the power, otherwise you can describe whatever you like.<noinclude>[[Category:Powers]]</noinclude>

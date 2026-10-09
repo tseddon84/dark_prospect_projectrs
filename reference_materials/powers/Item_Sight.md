@@ -1,0 +1,3 @@
+# Item Sight
+
+If you are able to physically read the tag or 3x5 card on an item then you may read and understand its contents. This means that you must be within range to study the item. If you see that an item is tagged and you are standing near the person, you may ask to see the tag. The in-game effect is that the individual sees you staring at their item. A person using this ability is obviously and in-game studying the object in question.<noinclude>[[Category:Powers]]</noinclude>

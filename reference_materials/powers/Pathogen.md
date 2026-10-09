@@ -1,0 +1,3 @@
+# Pathogen
+
+This ability cannot be resisted, but cannot be used in combat. Call "Subtle Pathogen", then hand your target 10 cards with the following text: "Subtle Pathogen, Disease: Your maximum health is immediately reduced by 2. For the remainder of game you cannot regenerate your own health without energy expenditure, and the Medicine skill will not have an effect. If you have more than one of these cards, hand approximately half of them to the next person who touches you or who you touch. Keep at least 1 card.” The caster of Pathogen is Immune to the Pathogen power for 10 minutes after use and may return any Pathogen cards handed to them during this time.<noinclude>[[Category:Powers]]</noinclude>

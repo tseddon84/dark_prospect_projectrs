@@ -1,0 +1,3 @@
+# Shadows by Firelight
+
+''Mental''. Spend the required energy, touch a target (who need not be willing), call "Shadows by Firelight: Join my story as [Character]" and name a character in your story. For as long as you continue to tell a coherent story, the target must act out their character’s deeds as described by the power user. Characters in the story may not cause actual harm while taking part in it and should call all damage as 0, nor can they make use of their own powers except defensively. The effect ends if you pause in your story for more than 10 seconds, if the target takes damage, or if your story reaches a total time of 10 minutes. All targets must be able to hear you while you tell your story.<noinclude>[[Category:Powers]]</noinclude>

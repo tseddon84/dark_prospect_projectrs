@@ -1,0 +1,3 @@
+# Dodge
+
+When struck by a physically delivered effect (that is, any effect delivered via packet, nerf bullet or boffer), call “Dodge!” To ignore the effect. You may Dodge one time per Recovery for each instance of the Dodge power you have– successfully Recovering restores all uses of Dodge. Note that unlike with Resist powers, Dodge can be used normally against Aggravated Damage. The Dodge power cannot be placed in a Fetish or used via a Ritual.<noinclude>[[Category:Powers]]</noinclude>

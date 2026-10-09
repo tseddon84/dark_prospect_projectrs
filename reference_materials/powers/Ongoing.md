@@ -1,0 +1,3 @@
+# Ongoing
+
+''Physical.'' Use the sig call: "Ongoing [Element] [damage]", touch your target with a boffer or hit them with a packet - they receive the described amount of damage every 10 seconds for the next minute. Note the Ongoing damage counts as the called element for all purposes, including Immunities and Resistances– so a character immune to Poison would be unaffected by Ongoing: Poison, for example, while a character with a Resist: Poison power could use it to resist the Ongoing effect as well.<noinclude>[[Category:Powers]]</noinclude>

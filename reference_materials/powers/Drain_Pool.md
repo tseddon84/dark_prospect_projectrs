@@ -1,0 +1,3 @@
+# Drain Pool
+
+''Physical''. You may drain the pool described in the power descriptor line. Once the sig call for this power begins, the user may not move from their current position. You may use your natural reach to maintain contact, but you may not lean to increase your reach. The target may move away from the user to disengage from this power, unless another power has immobilized them. Use the sig call: "Tapping 1, Tapping 2, Tapping 3, Draining [type] 1, Draining [type] 2…" If the target does not have that pool, they must respond with "No effect." If you have the named pool then you gain the same amount that you drain all at once after the draining call ends.

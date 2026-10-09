@@ -1,0 +1,3 @@
+# Lifeline
+
+Use the sig call: “Lifeline: Return here upon death.” Point to the target and one of their stationary Fetters. Upon reaching 0 health, the target Wraith immediately goes out of game and returns to that Fetter, returning to game at 1 health instead of entering the dying state and does not incur a Harrowing. This power ends once this effect occurs or at the end of this game session. You may only have one instance of this effect on you at a time.<noinclude>[[Category:Powers]]</noinclude>

@@ -1,0 +1,3 @@
+# Knockback
+
+''Physical.'' Touch the target with a boffer or hit them with a packet or bullet (as described in the power location) and call “Knockback X.” The Target must cross their arms or boffers across their chest in the Hasty Escape signal and take X steps directly away from you as quickly as they safely can before dropping the signal. The Target gains the benefits of Hasty Escape while taking these steps.<noinclude>[[Category:Powers]]</noinclude>

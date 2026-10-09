@@ -1,0 +1,3 @@
+# Resurrection
+
+On a Dead target (as defined in the power descriptor line) call: “Resurrection. Return to life” - the target may return to life at 1 health. The target’s health pool is halved for the remainder of game and they lose one point of PERMANENT Energy. Your Primary Energy pool is halved for the remainder of game. For each of the involved characters the effects linger through the next game they are present for if this power is used on the last day of game.<noinclude>[[Category:Powers]]</noinclude>

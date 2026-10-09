@@ -1,0 +1,3 @@
+# Summon Spirit
+
+''Mental, Instant''. Use the sig call ”Summon Spirits, Appear to me”. Any Umbral Beings in the room are immediately drawn to the caster and made to Appear as with the “Appear” power in the Realm next to the user. An additional point of energy must be spent for each target beyond the first. Targets not naturally from the Realm who are brought into it this way may not use powers except for Astral Projection, Materialize, Shunt (Self), Traverse Gauntlet, or Convergence. Upon being struck by a damaging attack, they take no damage and immediately return to the Umbra. The target cannot deal damage to themselves in this state.<noinclude>[[Category:Powers]]</noinclude>

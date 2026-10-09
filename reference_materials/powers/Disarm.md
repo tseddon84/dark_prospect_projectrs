@@ -1,0 +1,3 @@
+# Disarm
+
+''Physical''. Use the sig call: "Disarm, drop your gear", while attacking. You must make a successful attack with this sig call to cause the Disarm. Targets struck with Disarm drop one weapon that is held in hand. If they have a second weapon and are struck with a second Disarm, they drop the second weapon. The same holds true for shields or magical weapons. If specified on the command line, you may call "Disarm, give me your weapon", instead of dropping, the target should pass their weapon to you.<noinclude>[[Category:Powers]]</noinclude>

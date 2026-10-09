@@ -1,0 +1,3 @@
+# Charm
+
+''Mental.'' Use the sig call: "Charm: You like me". The target should roleplay generally positive feelings towards the user, acquiescing to reasonable requests, defending them if attacked (so long as doing so does not put them in substantial danger) and supporting their goals when doing so does not run counter to the target’s own interests. The target is not unfailingly obedient and is not required to undertake substantial risks on behalf of the user. Charm breaks early if the user or her allies physically attacks the target. If you have learned this power on one of your power trees, it may be used at no energy cost once every ten minutes.<noinclude>[[Category:Powers]]</noinclude>

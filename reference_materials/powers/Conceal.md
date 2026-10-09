@@ -1,0 +1,3 @@
+# Conceal
+
+You may wrap a number of tagged items described in your power descriptor line with an orange band, making them out of game. If the power does not describe a number, then you may do this with a single item. If someone searches you for tagged items you do not need to turn these items over. If you do this with a weapon and a concealed weapon check is used on you, you may answer “no” regarding that weapon. If you have other weapons on you, you must still answer “yes”. In order to use an item that was previously Concealed, you must first remove the orange band.<noinclude>[[Category:Powers]]</noinclude>

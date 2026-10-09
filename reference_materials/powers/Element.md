@@ -1,0 +1,3 @@
+# Element
+
+''Physical''. Throw a packet with the sig call: “[name of element] [amount of damage]” (Example: Fire 3). If the element is not defined, you may use any of the 4 Western elements (Earth, Air, Fire, Water) or the five Eastern elements (Fire, Earth, Water, Wood, Metal) - you must choose which elemental system you intend to use before ever using this ability and should not switch between them. If this power levels this amount increases by 1 for every level you purchase in its associated power tree past where it was obtained, to a maximum 4.<noinclude>[[Category:Powers]]</noinclude>

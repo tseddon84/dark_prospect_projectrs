@@ -1,0 +1,3 @@
+# Break Bonds
+
+Touch your target and say "Break Bonds: End all blood bonds, Charm, Entrancement or Obsession effects" if the target is under the effect of any number of Blood Bonds of any severity, all such effects end. Any other Charm, Entrancement or Obsession effects also end, even if they were not inflicted by a blood bond. This power may also end narrative effects crafted by storytellers at storyteller discretion.<noinclude>[[Category:Powers]]</noinclude>

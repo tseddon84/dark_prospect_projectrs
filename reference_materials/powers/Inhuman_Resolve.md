@@ -1,0 +1,3 @@
+# Inhuman Resolve
+
+When targeted by a mental effect, spend the listed energy and call “Resist” to ignore the triggering mental effect. Each time you use this power before Recovery, the cost increases by 1 to a maximum of 5. When you Recover, the cost resets back to its base level. Note that this does not count as a Willpower resist and does not confer temporary mental immunity as spending a willpower does.<noinclude>[[Category:Powers]]</noinclude>

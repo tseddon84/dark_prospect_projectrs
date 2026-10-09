@@ -1,0 +1,3 @@
+# Cloak
+
+''Buff''. Use the cloak hand sign: place your hand in front of your face, palm inward, fingers spread. You are considered invisible except to the power Cloak Sight. You cannot be targeted by a character who cannot see you, but you are affected by mass powers.You may not move your feet, speak, use any power which requires your character to speak, or take any aggressive action aside from Mental powers while using this power. This power has a 1 minute cooldown.<noinclude>[[Category:Powers]]</noinclude>

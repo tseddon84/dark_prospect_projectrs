@@ -1,0 +1,3 @@
+# Animal Form
+
+''Form.'' Carry a small animal prop wrapped in an orange OOG ribbon. When you use this power, take the orange ribbon off the prop, and put on an orange headband onto the target. The target now controls the animal prop as their character’s new form. While using this form, the character cannot use a weapon prop of any kind, and cannot deal weapon damage. They can still use mental, status, and self powers, and may deliver non-attack touch powers through the prop. While in this form and in the realm, the character in this form may not speak verbally. They may speak normally while in the umbra, or may communicate via powers such as Telepathy.

@@ -1,0 +1,3 @@
+# Snarl
+
+''Mental, Signaled, Disable''.  Hold your arm straight toward a target with your index finger pointed straight down and use the sig call "Snarl: Kneel before me." The target must kneel in place, is unable to attack in any way, and cannot speak louder than a quiet voice unless prompted by the power user. This power additionally ends if the user steps away.<noinclude>[[Category:Powers]]</noinclude>

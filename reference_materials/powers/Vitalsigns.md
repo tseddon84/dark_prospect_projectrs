@@ -1,0 +1,3 @@
+# Vitalsigns
+
+''Mental''. You may give a target a different answer to any diagnostic question. Touch the target and state the sig call “Alter Vitals” followed by the status, such as "If asked your health levels, you are at 10." "If asked what happened to you, you fell on a rock." Or even "If asked any diagnostic question, the answer is 'no'". Each imprinted answer incurs the cost. The effect lasts for 10 minutes unless otherwise specified.<noinclude>[[Category:Powers]]</noinclude>

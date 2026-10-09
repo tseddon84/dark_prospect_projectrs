@@ -1,0 +1,3 @@
+# Obedience
+
+''Mental''. Lasts 10 minutes or until task is completed, whichever comes first. Use the sig call "Obedience: [command less than 10 words]" in conjunction with the command hand signal. The target must attempt to complete the command as given. This power cannot be used to force a character to do anything that would obviously cause them to suffer damage, change their state of consciousness, or prevent them from defending themselves when attacked.<noinclude>[[Category:Powers]]</noinclude>

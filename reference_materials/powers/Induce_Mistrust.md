@@ -1,0 +1,3 @@
+# Induce Mistrust
+
+''Mental.'' Spend the required energy, indicate your target and call “Induce Mistrust, they’re all out to get you” The target perceives all other characters as inherently hostile and out for their blood. The target may choose how to respond to this knowledge, fighting, fleeing or keeping their head down and biding their time as befits the situation and their disposition, but they cannot bring themselves to ever trust another person while under the effects of the power.<noinclude>[[Category:Powers]]</noinclude>

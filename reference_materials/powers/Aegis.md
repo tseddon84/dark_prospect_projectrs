@@ -1,0 +1,3 @@
+# Aegis
+
+''Physical''. Use the sig call “Aegis” and designate the target (usually the caster). Target is immune to all damage and Status for the next 60 seconds. Target can still be affected by Mentals, but will not take damage while under their effects. Use the Immune calling rules when struck. Irresistible damage does not penetrate Aegis. This power may not be used for at least 1 minute after the effect ends.<noinclude>[[Category:Powers]]</noinclude>

@@ -1,0 +1,3 @@
+# Beast Form
+
+''Form''. Equip a mask designated by this power. This power lasts until deactivated unless otherwise specified. Falling unconscious while in this form reverts you to your natural form. Remember that while wearing an animal mask you inflict the Delirium effect on mortals. While in this form you gain +1 Augment and you may use the Resist: Status power once per Recovery for no energy cost.<noinclude>[[Category:Powers]]</noinclude>

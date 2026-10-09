@@ -1,0 +1,3 @@
+# Instill Emotion
+
+''Mental'', ''Instant''. Use the sig call "Instill Emotion: [name of emotion]". The emotion becomes the primary thing the character feels, pushing all other emotions to the side. This change in emotion may only be instant, but the effects last until external forces begin to impact that character. Making a character happy may only last until they turn to see their friend bleeding out again. Making a character angry may only last until someone offers them a kindness. <noinclude>[[Category:Powers]]</noinclude>

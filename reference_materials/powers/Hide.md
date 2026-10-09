@@ -1,0 +1,3 @@
+# Hide
+
+Make a "Hiding" three count while stationary. At the end of this count, use the Cloak hand sign: place your hand in front of your face, palm inward, fingers spread. As long as you maintain this hand signal and do not move, you are considered invisible except to those with the power "Cloak Sight." Any characters who were observing you while you were making the "Hiding" count continue to be able to see you. You cannot be targeted by a character who cannot see you, but you are affected by mass powers. You may not move your feet, speak, use any power which requires your character to speak, or take any aggressive action aside from Mental powers while using this power.<noinclude>[[Category:Powers]]</noinclude>

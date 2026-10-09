@@ -1,0 +1,3 @@
+# Entrancement
+
+''Mental, Special.'' Indicate the target, spend the required energy and call “Entrance: You are my ally” The target becomes an unconditionally loyal ally and retainer, and should obey your instructions and requests to the best of their ability so long as they do not result in immediate harm to the target or to their pre-existing allies or friends. They will not voluntarily attack, betray or undermine you and should defend you if you are attacked. While the target will happily perform violence at your request (to the best of their ability) they cannot be compelled to end another’s life or to attack one of their close friends or family members.<noinclude>[[Category:Powers]]</noinclude>

@@ -1,0 +1,3 @@
+# Dreamshape
+
+''Mental, Irresistible''. Place a 3x5 card on a sleeping target. The first line on both sides should be the word: “Dreamshape” - this does not count as a word for determining word counts. On one side, describe a dream that character would have. On the other, give a 10 word command. For the duration, the target should attempt to follow that command as long as it does not directly counter their nature. Someone is not likely to attack individuals they consider trusted allies, but they might be unable to attack when they would otherwise be aggressive. As the target is asleep, they may not resist this ability.<noinclude>[[Category:Powers]]</noinclude>

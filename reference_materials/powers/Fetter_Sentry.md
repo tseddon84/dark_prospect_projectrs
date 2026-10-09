@@ -1,0 +1,3 @@
+# Fetter Sentry
+
+Receive up to 5 special tags each game session. These special tags replace the tags on already tagged fetters (they cannot be used to create false fetters or new fetters). If the fetter would be destroyed, instead remove the tag and when the scene winds down, go find the person whose name is on the tag. That person takes 3 damage and restores the original fetter tag.<noinclude>[[Category:Powers]]</noinclude>

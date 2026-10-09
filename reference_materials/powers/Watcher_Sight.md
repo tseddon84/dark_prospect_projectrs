@@ -1,0 +1,3 @@
+# Watcher Sight
+
+You may see characters in orange headbands who are either following another individual or are stationary. This allows you to see individuals using Clairvoyance or Possession. If a player is out of costume or obviously not playing a character, this power does not allow you to see them. A player wearing an orange headband who is truly out of game (if you're not sure) may clarify their out of game status by flashing or maintaining a second Out Of Game signal.<noinclude>[[Category:Powers]]</noinclude>

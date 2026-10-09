@@ -1,0 +1,3 @@
+# Command
+
+''Mental, Signaled, Disable''. Use the sig call "Command: [single word]" in conjunction with the command hand signal. The target must attempt to complete the command as given to the best of their understanding. The target must continue to attempt to enact this command for as long as the hand signal is maintained, or until they are out of line of sight from the user. Example commands are: “Dance”, “Duck”, “Come”, “Follow”, “Stop”, "Leave". If the command is nonsensical or impossible to achieve, the target may choose to either attempt to do so anyways, or may stand still and think about how they could do so for the duration.<noinclude>[[Category:Powers]]</noinclude>

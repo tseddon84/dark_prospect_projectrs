@@ -1,0 +1,3 @@
+# Sense Pool
+
+''Mental, Instant, Sensory''. Use sig call: "Sense:" followed by the name of the pool, as described on the power descriptor line, the target should reply with their current Pool level or “Resist”, or "No Effect" if they don't have that pool. You may choose to ignore the power's resource cost by spending a silent 10-count obviously observing the target while standing within conversational distance of them. If the target leaves conversational range during this silent 10 count, or you move, use another power or attack someone, the count is interrupted and must be restarted.<noinclude>[[Category:Powers]]</noinclude>

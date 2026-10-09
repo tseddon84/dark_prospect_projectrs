@@ -1,0 +1,3 @@
+# Health Increase
+
+Increase your maximum health by the amount given on the power descriptor line. This ability stacks with other instances of Health Increase, but you cannot use the same source of Health Increase twice (each use must come from a different power tree location.) This power also increases your current health if your current health is at more than half of your maximum pool.<noinclude>[[Category:Powers]]</noinclude>

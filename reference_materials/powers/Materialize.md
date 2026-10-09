@@ -1,0 +1,3 @@
+# Materialize
+
+Remove your white headband and enter the Realm. You have full access to powers in this state and effectively are a living being. You become vulnerable to poisons, diseases, drugs and alcohol. While in the Realm you may be healed by any means that would restore health to a living being. Any passive Energy generation is halved while in the Realm.<noinclude>[[Category:Powers]]</noinclude>

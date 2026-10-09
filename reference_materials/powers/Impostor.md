@@ -1,0 +1,3 @@
+# Impostor
+
+When asked by powers if you have the energy type, health type, or supernatural Type described on the power descriptor line, you must answer as if that Type. When asked for other characteristics defining that Type (such as Tribe, Clan, Auspice, etc…) you may answer with any answer your character would know. You may also choose to answer any question that would identify your native Type with a negative response (“No”, “None”, etc.)<noinclude>[[Category:Powers]]</noinclude>

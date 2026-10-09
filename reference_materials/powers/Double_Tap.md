@@ -1,0 +1,3 @@
+# Double Tap
+
+''Physical''. This power may only be used on a target in the dying state. Aim your firearm prop at the target and make a silent 10 count, then fire a foam dart at the target. This dart must hit. Use the sig call "Bang, Double Tap." The target's death timer is halved. This effect stacks with Aggravated Damage and is removed as soon as the target has any health restored to them.<noinclude>[[Category:Powers]]</noinclude>

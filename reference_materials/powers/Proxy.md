@@ -1,0 +1,3 @@
+# Proxy
+
+''Blatant'' Use the signature call "proxy (full power call)" to indicate your pool costs are obviously being paid by another source. Because Proxy is always Blatant, you may include the call "blatant", but you do not need to. An individual proxy effect will only cover the costs of one pool, such as gnosis or willpower, but you may be under the effect of multiple proxies at once. The specified pool cost for activating powers or items is reduced to 0 while the proxy is active. This does not need to be a physical connection."<noinclude>[[Category:Powers]]</noinclude>

@@ -1,0 +1,3 @@
+# Zombie
+
+Use the sig call "Zombie, do my bidding" against single dying target, this immediately freezes their death timer for the duration of the power, a command (such as "Defend me") must be given when the target is placed in the zombie state. A zombied character has 10 health and cannot use powers. Zombies are immune to mentals while active. Reducing the target zombie to 0 health removes the Zombie effect.<noinclude>[[Category:Powers]]</noinclude>

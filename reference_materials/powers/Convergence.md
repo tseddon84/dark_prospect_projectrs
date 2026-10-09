@@ -1,0 +1,3 @@
+# Convergence
+
+Equip a distinctively orange and white striped headband - you may achieve this effect by twisting your white and orange headbands if you do not have another headband available, as long as the striping is clearly visible and discernible. In addition to the headband, you may optionally wear a green glowstick to help indicate this power in dark conditions. A character affected by this power exists in both the Realm and the Umbra at the same time. Characters who are Native Realm: Realm behave as they normally do in the Realm. Characters who are Native Realm: Umbra behave mechanically as if under the effects of Materialize. Being shunted ends this effect and returns you to your native realm.<noinclude>[[Category:Powers]]</noinclude>

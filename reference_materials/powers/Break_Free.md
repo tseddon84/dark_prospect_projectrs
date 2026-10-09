@@ -1,0 +1,3 @@
+# Break Free
+
+While affected by a Status power, you can begin a “Breaking Free” 10 count. This count is interrupted if you move either of your feet, take any damage, or are successfully afflicted by a mental or status power. You can call Immunities while Breaking Free, but cannot use any other powers. If you successfully finish the Breaking Free count, end any status power currently affecting you.<noinclude>[[Category:Powers]]</noinclude>

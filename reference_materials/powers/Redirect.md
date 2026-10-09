@@ -1,0 +1,3 @@
+# Redirect
+
+While active you may redirect damage to a target designated by this power. Use the sig call: “Redirect [damage amount] [damage type]” and indicate the target taking the damage by gesturing their direction. The target may resist this redirection for free, in which case you take the damage. The target may reduce the damage, but if they resist it, you take the damage.<noinclude>[[Category:Powers]]</noinclude>

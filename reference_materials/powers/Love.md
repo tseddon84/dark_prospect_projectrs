@@ -1,0 +1,3 @@
+# Love
+
+''Mental''. Use the sig call: "Love me". The target is overcome with love, respect, and adoration for you. The target will protect you to the best of their ability, but will not necessarily sacrifice their life for yours. The target is inclined to do things you ask, short of inflicting harm to themselves or others.(This power has been replaced by Entrancement)<noinclude>[[Category:Powers]]</noinclude>

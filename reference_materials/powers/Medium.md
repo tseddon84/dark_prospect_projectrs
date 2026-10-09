@@ -1,0 +1,3 @@
+# Medium
+
+''Buff, Hearing.'' This power allows you to hear, but not see, characters on the other side of the gauntlet from you, regardless of which side you are on. You are not automatically aware of which side of the gauntlet a given sound came from, though you may be able to guess. You may not target across the gauntlet with this power alone, even when using the Breach power.<noinclude>[[Category:Powers]]</noinclude>

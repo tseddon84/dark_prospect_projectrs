@@ -1,0 +1,3 @@
+# Armor
+
+Place your hands on an in-game shirt, worn or unworn (if worn, get permission from the player) - this item must not be tagged Armor. Make a 3 count of "Creating Armor", then spend the described amount for every 2 armor pool you wish to infuse the item with. This armor lasts up to 24 hours.. This armor, once lost, cannot be repaired. Attach a 3x5 to the shirt with: “Armor: [your name], [your character's name], [the start time], [the end time], and [the total amount of armor provided]”. No target may have more than 10 armor pool added this way.<noinclude>[[Category:Powers]]</noinclude>

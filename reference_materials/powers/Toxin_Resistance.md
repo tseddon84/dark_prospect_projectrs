@@ -1,0 +1,3 @@
+# Toxin Resistance
+
+Target reduces all poison and toxic damage taken by 1. Target may ignore the side effects of Drugs and may not be affected by Alcohol. If under the effects of a Drug or Alcohol when this ability is activated then the target must immediately remove both the beneficial and detrimental effects, however, the 4 hour minimum limit between effective doses of Cocaine or Opium remains.<noinclude>[[Category:Powers]]</noinclude>

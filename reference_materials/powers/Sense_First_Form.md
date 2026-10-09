@@ -1,0 +1,3 @@
+# Sense First Form
+
+''Mental, Instant, Sensory''. Use the Sig call: "Sense First Form", target must answer "Man", "Metis", "Beast", or if a Gaian Spirit, the thing that they are a spirit of. If they don't have an additional form, they answer with what they appear to be. In most cases, this will be "Man." You may choose to ignore the power's resource cost by spending a silent 10-count obviously observing the target while standing within conversational distance of them. If the target leaves conversational range during this silent 10 count, or you move, use another power or attack someone, the count is interrupted and must be restarted.<noinclude>[[Category:Powers]]</noinclude>

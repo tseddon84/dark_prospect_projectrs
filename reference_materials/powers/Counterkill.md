@@ -1,0 +1,3 @@
+# Counterkill
+
+''Other''. Upon having your health reduced to 0 you may call "Counterkill". Your killer's health is instantly reduced to 0. This effect cannot be resisted. Counterkill cannot be used in conjunction with other powers and must be the last power used. Using Counterkill reduces all of your character's pools to 0 and applies Aggravated Damage to your character.<noinclude>[[Category:Powers]]</noinclude>

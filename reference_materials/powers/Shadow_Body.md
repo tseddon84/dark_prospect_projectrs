@@ -1,0 +1,3 @@
+# Shadow Body
+
+Equip a black mantle with a silver rim. You become immune to Elemental and Physical damage and may only attack with Brawl based weaponry. You may not use Medicine or Resist: Mental while in Shadow Body. While in this form you may only move at a walking pace. Call “Immune” to any effect you are immune to.  You may not use this power while in Frenzy, and entering Frenzy while in Shadow Body immediately ends the power.<noinclude>[[Category:Powers]]</noinclude>

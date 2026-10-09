@@ -1,0 +1,3 @@
+# Rigging
+
+Receive a single free tag of any type once each game. Tags created with Rigging should receive a Rigging label, which has the word “Rigging” and the game or date written on it. When using Rigging to create a Fetish item, this item must be created using the ItemMaker during check-in and the caster must reduce their maximum Glamour and Willpower pools by a combined total equal to the level of the Fetish. This power may not be used to create a Fetish item that uses the same power more than once every 6 games. Tags created with Rigging expire and must be destroyed at the end of game.

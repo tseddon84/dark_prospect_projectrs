@@ -1,0 +1,3 @@
+# Hanging On
+
+Buff. When you are reduced to 0 health, make the call “Hanging On.” For the next 60 seconds, you may only move at a shambling pace and speak. During this time, you are immune to all attacks and cannot enter the dying state. You may not use powers, items, or otherwise attack. You may allow allies to affect you with healing powers and buffs. At the end of the 60 second duration, if you are still at 0 health, you fall unconscious and enter the dying state.

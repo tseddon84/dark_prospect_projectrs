@@ -1,0 +1,3 @@
+# Claim Item
+
+''Mental, Special''. You may take a tagged item from another character. You must be able to see the actual item to use this power, the item cannot be in the target’s hand. Use the sig call: "Claim Item: You never had this", touch the item. The target does not remember ever having had this tagged item or that you took it. Other characters may. This effect lasts until the end of the game weekend.<noinclude>[[Category:Powers]]</noinclude>

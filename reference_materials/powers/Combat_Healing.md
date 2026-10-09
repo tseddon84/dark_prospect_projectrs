@@ -1,0 +1,3 @@
+# Combat Healing
+
+Make the call “Combat Healing”.  For the duration of this power and while you are conscious you may spend 1 energy and call “Healing Touch 3” to restore 3 Health to yourself. You may do this as many times as you like for the duration of the power. After this power ends you lose as much health as you gained this way. If this reduces you to 0 or fewer health then you will enter the Dying state at 0 health.<noinclude>[[Category:Powers]]</noinclude>

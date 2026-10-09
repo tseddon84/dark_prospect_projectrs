@@ -1,0 +1,3 @@
+# Impunity
+
+Use the Sig: "Impunity, you may not attack me". Your target may not attack you for what you say no matter what you say to them, even if they enter Frenzy, unless already doing so.  If the target is already attacking you, or already in Frenzy, we wish you the best of luck in surviving your ordeal. While not technically a Disable, this effect breaks on the same conditions as Disable effects.<noinclude>[[Category:Powers]]</noinclude>

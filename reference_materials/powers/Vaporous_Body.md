@@ -1,0 +1,3 @@
+# Vaporous Body
+
+Equip a white mantle. You are immune to Damage and Status effects, may only use non-offensive or Mental powers, and may not use any power that is considered “Physical”. You may not use Medicine, Resist: Mental, or any effect which is tagged as Physical while in Vaporous Body. While in Vaporous Body, you may walk through any door, even if locked with a level 3 lock. Call “Immune” when you are hit with an effect that you are immune to.<noinclude>[[Category:Powers]]</noinclude>
